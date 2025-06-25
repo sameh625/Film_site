@@ -6,7 +6,7 @@ const app = express();
 const userController = require('./controllers/userController');
 const filmController = require('./controllers/filmController');
 /*Watch out*/
-const uri = 'your MongodbLink'; 
+const uri = 'your Mongodb Link'; 
 
 mongoose.connect(uri)
     .then((result) => {
