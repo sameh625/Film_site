@@ -1,6 +1,11 @@
 # FilmSite
 
 FilmSite is a web application for managing a personal film collection. Users can sign up, log in, add films, and view their collection in a dashboard.
+We strongly focused on implementing **unit tests** and **integration tests** for every function in this project. All core logic and routes are covered by automated tests to ensure reliability and maintainability.
+
+- **Unit Tests:** Test individual functions and modules in isolation.
+- **Integration Tests:** Test the interaction between different modules and the overall workflow.
+
 
 ## Features
 
