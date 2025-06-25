@@ -91,4 +91,4 @@ npm test
 ## Contributors
 
 - [Sameh](https://github.com/sameh625)
-- [Ameen]([https://github.com/ameen-profile](https://github.com/Ameensakr/))
+- [Ameen](https://github.com/Ameensakr/)
