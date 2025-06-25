@@ -1,3 +1,4 @@
+
 # FilmSite
 
 FilmSite is a web application for managing a personal film collection. Users can sign up, log in, add films, and view their collection in a dashboard.
@@ -87,3 +88,7 @@ npm test
 - `partials/` - Shared EJS partials (header, footer, nav)
 - `public/` - Static assets (CSS)
 - `tests/` - Automated tests
+## Contributors
+
+- [Sameh](https://github.com/sameh625)
+- [Ameen]([https://github.com/ameen-profile](https://github.com/Ameensakr/))
