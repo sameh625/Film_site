@@ -5,8 +5,8 @@ const app = express();
 
 const userController = require('./controllers/userController');
 const filmController = require('./controllers/filmController');
-/*my teammate mongodb amigoo*/
-const uri = 'mongodb+srv://Ameen:WKWh4dux4xotZGrg@imdb.hn3af24.mongodb.net/?retryWrites=true&w=majority&appName=imdb'; 
+/*Watch out*/
+const uri = 'your MongodbLink'; 
 
 mongoose.connect(uri)
     .then((result) => {
